@@ -1,6 +1,5 @@
 package org.demo.web_socket_step.sse.chat;
 
-import lombok.Getter;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.MediaType;
 import org.springframework.stereotype.Controller;
